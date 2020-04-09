@@ -426,6 +426,8 @@ width: 200px;
 }
 
 .button {
+  position: relative;
+  bottom: 10px;
   padding: 15px 25px;
   font-size: 24px;
   text-align: center;
