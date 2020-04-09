@@ -1,0 +1,438 @@
+body {background-color: black;}
+h1 {
+  font-family: comic sans ms;
+  background-color: yellow;
+  position: relative;
+  color: red;
+  font-size: 550%;
+  top: 20px;
+}
+
+h2 {
+  font-family: comic sans ms;
+  background-color: yellow;
+  position: relative;
+  color: red;
+  font-size: 650%;
+  top: 20px;
+}
+
+h3 {
+  font-family: Arial;
+  position: relative;
+  color: red;
+  top: 3px;
+  font-size: 62px;
+}
+
+h4  {
+  font-family: Arial;
+  position: relative;
+  background-color: yellow;
+  text-align: center;
+  color: red;
+  font-size: 260%;
+  top: 10px;
+}
+
+h5 {
+  font-family: Arial;
+  position: relative;
+  color: white;
+  top: 20px;
+  right: 500px;
+  font-size: 8px;
+}
+
+h6 { 
+  font-family: comic sans ms;
+  position: relative;
+  background-color: yellow;
+  color: red;
+  top: 4px;
+  font-size: 650%;
+}
+
+h7 {
+  font-family: comic sans ms;
+  background-color: yellow;
+  position: relative;
+  color: red;
+  top: 170px;
+  left: 8px;
+  font-size: 650%;
+}
+
+h8 {
+  font-family: Arial;
+  position: relative;
+  color: white;
+  bottom: 10px;
+  right: 40;
+  font-size: 8px;
+}
+
+h9 {
+  font-family: Arial;
+  position: relative;
+  color: white;
+  text-shadow: 2px px red;
+  top: 400px;
+  font-size: 150%;
+  left: 50px;
+}
+ 
+h10 {
+  font-family: Arial;
+  position: relative;
+  color: red;
+  text-shadow: 2px 2px white;
+  top: 250px;
+  right: 10px;
+  font-size: 250%;
+}
+
+h11 {
+  font-family: comic sans ms;
+  background-color: yellow;
+  position: relative;
+  bottom: 40px;
+  color: red;
+  font-size: 650%;
+}
+
+h12 {
+ font-family: Arial;
+  position: relative;
+  color: white;
+  font-size: 62px;
+  right: 30px;
+}
+
+h13 {
+  font-family: Arial;
+  position: relative;
+  color: white;
+  top: 50px;
+  right: 30px;
+  font-size: 18px;
+}
+
+h14 {
+  font-family: Arial;
+  color: white;
+  position: relative;
+  left: 20px;
+  top: 70px;
+  font-size: 8px;
+}
+
+h15 {
+  font-family: comic sans ms;
+  background-color: yellow;
+  position: relative;
+  color: red;
+  font-size: 650%;
+  top: 50px;
+  left: 8px;
+}
+
+h16  {
+  font-family: Arial;
+  position: relative;
+  color: white;
+  font-size: 52px;
+  top: 20px;
+  
+  right: 20px;
+}
+
+h17 {
+  font-family: Arial;
+  position: relative;
+  color: red;
+  bottom: 260px;
+  right: 50px;
+  font-size: 18px;
+}
+
+h18 {
+  font-famiy: Arial;
+  position: relative;
+  color: white;
+  bottom: 10px;
+  right: 20px;
+  font-size: 24px;
+}
+
+h19 {
+  font-famiy: Arial;
+  color: white;
+  top: 20px;
+  font-size: 8px;
+}
+
+h20 {
+  font-famiy: Arial;
+  position: sticky;
+/*   text-align: justify; */
+  text-align: center;
+  color: white;
+  margin-left: 60px;
+  margin-right: 35px;
+  font-size: 32px;
+}
+
+h21 {
+  font-famiy: Arial;
+  position: relative;
+  color: white;
+  bottom: 40px;
+  right: 20px;
+  font-size: 32px;
+}
+
+h22 {
+  font-famiy: Arial;
+position: relative;
+  color: white;
+  right: 20px;
+  bottom: 20px;
+  font-size: 12px;
+}
+
+h23 {
+  font-famiy: Arial;
+  position: relative;
+  color: white;
+  top: 50px;
+  left: 20px;
+  font-size: 62px;
+}
+
+h24 {
+  font-famiy: Arial;
+  position: relative;
+  color: white;
+  top: 110px;
+  right: 20px;
+  font-size: 24px;
+}
+
+h25 {
+  font-famiy: Arial;
+  position: relative;
+  color: white;
+  right: 20px;
+  bottom: 30px;
+  font-size: 24px;
+}
+
+h26 {
+  font-famiy: Arial;
+  position: sticky;
+  text-align: justify;
+  text-align: center;
+  color: white;
+  right; 60px;
+  font-size: 24px;
+}
+
+h27 {
+  font-family: Arial;
+  position: relative;
+  color: white;
+  top: 50px;
+  right: 30px;
+  font-size: 18px;
+}
+
+h28 {
+  font-famiy: Arial;
+  position: relative;
+  color: white;
+  top: 10px;
+  right: 20px;
+  font-size: 62px;
+}
+
+h29 {
+  font-famiy: Arial;
+  position: relative;
+  color: white;
+  bottom: 180px;
+  left: 20px;
+  font-size: 24px;
+}
+
+h30 {
+  font-famiy: Arial;
+  position: relative;
+  color: white;
+  bottom: 160px;
+  left: 20px;
+  font-size: 24px;
+}
+
+h31 {
+  font-famiy: Arial;
+  position: relative;
+  color: white;
+  font-size: 32px;
+  left: 50px;
+}
+
+h32 {
+  font-family: comic sans ms;
+  background-color: yellow;
+  position: relative;
+  color: red;
+  font-size: 650%;
+  top: 30px;
+  right: 9px;
+}
+
+
+
+h33 {
+  font-family: comic sans ms; 
+  background-color: yellow;
+  position: relative;
+  color: red;
+  left: 11px;
+  font-size: 650%;
+}
+
+h34 {
+  font-famiy: Arial;
+  color: white;
+  top: 20px;
+  font-size: 8px;
+}
+
+h35 {
+  font-famiy: Arial;
+  position: relative;
+  text-align: left;
+  bottom: 670px;
+  right: 550px;
+  color: white;
+  font-size: 32px;
+}
+
+h36 {
+  font-famiy: Arial;
+  position: relative;
+  text-align: left;
+  bottom: 30px;
+  right: 300px;
+  color: white;
+  font-size: 32px;
+}
+
+
+h37 {
+  font-famiy: Arial;
+  position: relative;
+  text-align: right;
+  bottom: 30px;
+  left: 200px;
+  bottom: 390px;
+  color: white;
+  font-size: 32px;
+}
+
+/* p {
+  font-famiy: Arial;
+  position: relative;
+  top: 10px;
+  left: 210px;
+  color: white;
+  font-size: 24px;
+} */
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+
+
+.column {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 130px;
+  vertical-align: middle;
+}
+
+.conversation {
+  color: white;
+}
+
+img {
+  background-color: yellow;
+  top: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 8px;
+  width: 500px;
+  
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+p {
+
+  font-family: Arial;
+  color: white;
+  line-height: 1.4em;
+  font-size: 160%;
+  top: 40px;
+}
+
+
+  img {
+  position: relative;
+  font-size: 350%;
+  top: 5px;
+}
+
+
+a:hover {
+  font-size: 180%;
+}
+
+/* table{
+  border: 10px solid white;
+} */
+
+a:visited {
+  color: #232323;
+}
+
+.example {
+position:relative;
+left:460px;
+width: 200px;
+}
+
+
+
+.wrapper {
+  margin-right: auto; /* 1 */
+  margin-left:  auto; /* 1 */
+
+  max-width: 960px; /* 2 */
+
+  padding-right: 10px; /* 3 */
+  padding-left:  10px; /* 3 */
+}
