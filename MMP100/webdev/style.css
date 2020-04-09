@@ -425,12 +425,13 @@ left:260px;
 width: 200px;
 }
 
+
 .button {
-  position: relative;
-  bottom: 10px;
+  position: absolute;
+  right: 45%;
+  margin-top: 5%;
   padding: 15px 25px;
   font-size: 24px;
-  text-align: center;
   cursor: pointer;
   outline: none;
   color: #000000;
@@ -440,13 +441,14 @@ width: 200px;
   box-shadow: 0 9px #999;
 }
 
-.button:hover {background-color: #3e8e41}
+.button:hover {background-color: #FF0000}
 
 .button:active {
   background-color: #3e8e41;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
+
 
 .wrapper {
   margin-right: auto; /* 1 */
