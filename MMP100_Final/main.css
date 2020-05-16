@@ -36,12 +36,9 @@ p {
 }
 
 #credits {
-  position: relative;
-  top: 100px;
-  left: 500px;
-  background-color: #4CAF50; /* Green */
-  color: white;
-  padding: 15px 32px;
+  #credits {
+   position: relative;
+   top: 300px;
 }
 
 /* Slideshow container */
