@@ -35,6 +35,11 @@ p {
   text-align: center;
 }
 
+#credits {
+   position: relative;
+   top: 300px;
+}
+
 /* Slideshow container */
 .slideshow-container {
   max-width: 800px;
