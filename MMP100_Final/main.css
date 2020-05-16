@@ -41,6 +41,12 @@ p {
    left: 300px;
 }
 
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
 /* Slideshow container */
 .slideshow-container {
   max-width: 800px;
