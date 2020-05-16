@@ -5,20 +5,29 @@
 /*header*/
 h1 {
   font-family: comic sans ms;
-  position: absolute;
+  position: relative;
   color: white;
-  font-size: 100px;
-  left: 95px;
-  top: 5px;
+  font-size: 120px;
+  left: 35px;
+    right: 35px;
 }
 
+/*body text*/
 p {
   font-family: comic sans ms;
   position: relative;
-   top: 450px;
-   text-align: center;
+  top: 450px;
+  text-align: center;
 }
+
 .strokeme {
+  color: white;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+  text-align: center;
+}
+
+.strokeit {
   color: white;
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
     1px 1px 0 #000;
