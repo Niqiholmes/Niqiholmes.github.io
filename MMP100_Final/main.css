@@ -8,14 +8,13 @@ h1 {
   position: relative;
   color: white;
   font-size: 120px;
-  left: 35px;
-    right: 35px;
+ 
+    
 }
 
 /*body text*/
 p {
   font-family: comic sans ms;
-  position: relative;
   top: 70px;
   font-size: 55px; 
 }
