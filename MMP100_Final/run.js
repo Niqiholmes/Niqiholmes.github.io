@@ -1,3 +1,4 @@
+let testVariable; //declare a global variable
 var slideIndex = 1;
 showSlides(slideIndex);
 
