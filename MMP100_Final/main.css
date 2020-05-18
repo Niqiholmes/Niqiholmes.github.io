@@ -35,16 +35,12 @@ p {
   text-align: center;
 }
 
-.btn {
-  border: none;
-/*   position: sticky; */
-  top: 400px;
-  right: 300px;
-  background-color: inherit;
-  padding: 14px 28px;
-  font-size: 16px;
-  cursor: pointer;
-  display: inline-block;
+#credits {
+   position: relative;
+   top: 300px;
+   left: 300px;
+   top: 400px;
+   left: 600px;
 }
 
 a:link {
