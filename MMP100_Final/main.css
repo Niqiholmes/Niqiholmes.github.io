@@ -35,17 +35,23 @@ p {
   text-align: center;
 }
 
-#credits {
-   position: relative;
-   top: 400px;
-   left: 600px;
+.btn {
+  border: none;
+  background-color: inherit;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
 }
 
-a:link {
-  color: green;
-  background-color: transparent;
-  text-decoration: none;
-}
+/* On mouse-over */
+.btn:hover {background: #eee;}
+
+.success {color: green;}
+.info {color: dodgerblue;}
+.warning {color: orange;}
+.danger {color: red;}
+.default {color: black;}
 
 /* Slideshow container */
 .slideshow-container {
