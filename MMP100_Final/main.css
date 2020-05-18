@@ -47,22 +47,10 @@ p {
   display: inline-block;
 }
 
-/* On mouse-over */
-.btn:hover {background: #eee;}
-
-.success {color: green;}
-.info {color: dodgerblue;}
-.warning {color: orange;}
-.danger {color: red;}
-.default {color: black;}
-
-/* Slideshow container */
-.slideshow-container {
-  max-width: 800px;
-  max-height: 640px;
-  position: relative;
-  margin: auto;
-  top: 200px;
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
 }
 
 /* Hide the images by default */
