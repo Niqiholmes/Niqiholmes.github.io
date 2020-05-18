@@ -37,9 +37,9 @@ p {
 
 .btn {
   border: none;
-  position: relative;
+  position: sticky;
   top; 400px;
-  left: 300px;
+  right: 300px;
   background-color: inherit;
   padding: 14px 28px;
   font-size: 16px;
