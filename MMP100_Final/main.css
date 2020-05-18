@@ -37,8 +37,8 @@ p {
 
 .btn {
   border: none;
-  position: sticky;
-  top; 400px;
+/*   position: sticky; */
+  top: 400px;
   right: 300px;
   background-color: inherit;
   padding: 14px 28px;
