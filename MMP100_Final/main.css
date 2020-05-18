@@ -7,7 +7,7 @@ h1 {
   font-family: comic sans ms;
   position: relative;
   color: white;
-  font-size: 100px;
+  font-size: 120px;
   left: 35px;
     right: 35px;
 }
@@ -16,9 +16,9 @@ h1 {
 p {
   font-family: comic sans ms;
   position: relative;
-  top: 20px;
-  font-size: 35px; 
-  text-align: center;
+  top: 70px;
+  font-size: 55px; 
+  left: 790px;
 }
 
 .strokeme {
@@ -35,17 +35,25 @@ p {
   text-align: center;
 }
 
+/*the mother effing button*/
 #credits {
    position: relative;
    top: 300px;
-   left: 400px;
-   top: 400px;
+   left: 700px;
+    /*
+   position: relative;
+   top: 300px;
+*/
 }
 
-a:link {
-  color: green;
-  background-color: transparent;
-  text-decoration: none;
+/* Slideshow container */
+.slideshow-container {
+  max-width: 800px;
+  max-height: 640px;
+  position: relative;
+  margin: auto;
+  top: 150px;
+  right: 100px;
 }
 
 /* Hide the images by default */
